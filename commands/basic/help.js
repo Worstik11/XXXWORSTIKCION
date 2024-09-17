@@ -307,7 +307,7 @@ module.exports = {
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1230824451990622299/1253655047259160596/6186-developer-bot.gif?ex=66a9667f&is=66a814ff&hm=1494b63ccfaf2dae30a35af520fb748dd17e76195c206f2925b526595018c60f&";
                             break;
                         case 'hentai':
-                            page.image = "https://cdn.discordapp.com/attachments/659120271034155042/1285728582957662328/giphy.gif?ex=66eb538d&is=66ea020d&hm=914fc0984aa8708efb416a179e93600e7b4a07787d57589ccb251156aa857b47&";
+                            page.image = "https://cdn.discordapp.com/attachments/659120271034155042/1285735912386592849/50d16ac2-c17b-45c5-8e9b-39f0c40daa9c.webp?ex=66eb5a61&is=66ea08e1&hm=42cae10f08eca2d7886a587429cf4ee8fabb1a1eba01cd8de3a850c0f4f14ae2&";
                             page.color = "#ff99cc";
                             page.thumbnail = "https://cdn.discordapp.com/attachments/1264134884432285766/1270353776489922651/s_removed.png?ex=66b364a6&is=66b21326&hm=2d4ded259b57f476c901c58401e1d6faba2653c0a964ee1c4f371ecf3da52100&";
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1230824451990622299/1230824519220985896/6280-2.gif?ex=667beaa8&is=667a9928&hm=50dfab0b5a63dab7abdc167899c447041b9717016c71e4ffe377a0d7a989d6b5&";
